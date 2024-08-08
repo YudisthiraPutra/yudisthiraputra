@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Yudisthira</h1>
-<h3 align="center">Enthusiastic about exploring the depths of informatics, with a strong interest in Cloud Computing, IOS Mobile Development and Machine Learning.</h3>
+<h3 align="center">Enthusiastic about exploring the depths of informatics, with a strong interest in Cloud Computing and Data related.</h3>
 
 # 💫 About Me:
 🔭 I’m currently pursuing my studies at Sepuluh Nopember Institute of Technology<br>🌱 I’m currently learning more about Cloud Computing and Machine learning
